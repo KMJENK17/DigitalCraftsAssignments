@@ -1,0 +1,24 @@
+body {
+    background-color: pink;
+}
+
+.nav {
+    background-color: white;
+}
+
+.newsImage {
+    height: 200px;
+    width: 200px;
+}
+
+#content {
+    display: flex;
+    flex-direction: column;
+}
+
+#newsUL {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    text-align: left;
+}
