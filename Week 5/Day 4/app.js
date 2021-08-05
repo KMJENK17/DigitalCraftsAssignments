@@ -43,5 +43,5 @@ function displayInfo(info) {
     articleTitle.innerHTML = info.title
     articleAuthor.innerHTML = `by: ${info.author}`
     articleUrl.innerHTML = `link: ${info.url}`
-    articleTime.innerHTML = `poster at: ${info.time}`
+    articleTime.innerHTML = `posted at: ${info.time}`
 }
