@@ -1,5 +1,5 @@
 const showWeatherButton = document.getElementById('showWeatherButton')
-const weatherUrl = `https://api.openweathermap.org/data/2.5/weather?q=atlanta&appid=bb611625250c7bcc999039fbf9a4a115&units=imperial`
+const weatherUrl = `https://api.openweathermap.org/data/2.5/weather?q=queens&appid=bb611625250c7bcc999039fbf9a4a115&units=imperial`
 const usersUL = document.getElementById('usersUL')
 const cityName = document.getElementById('cityName')
 
