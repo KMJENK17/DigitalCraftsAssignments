@@ -44,4 +44,5 @@ function displayInfo(info) {
     articleAuthor.innerHTML = `by: ${info.author}`
     articleUrl.innerHTML = `link: ${info.url}`
     articleTime.innerHTML = `posted at: ${info.time}`
+
 }
